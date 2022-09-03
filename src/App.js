@@ -13,7 +13,7 @@ class App extends Component {
   state = {
     user: {},
     users: [],
-    numberOfUsers: 3
+    numberOfUsers: 4
   }
 
   createUser = (e) => {
